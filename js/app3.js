@@ -1,0 +1,4 @@
+let b=7
+for (a = 1;a<11;a++){
+    console.log(a*b)
+}
