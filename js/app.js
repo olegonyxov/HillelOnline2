@@ -1,7 +1,7 @@
-let str = 10
-let lala
+let str = 10;
+let increment;
 for (i=11; i<21;i++){
-    lala =(","+i);
+    increment =(","+i);
     str+= lala;
 }
-console.log(str)
+console.log(str);

@@ -1,6 +1,7 @@
-a = 1
-let b;
+let a=2;
+let b=1;
 while (a < 16) {
-    b = a + (a+1)
-
+    b+=a
+    a++
 }
+alert(b)
